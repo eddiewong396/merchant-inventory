@@ -1,12 +1,13 @@
+<!DOCTYPE HTML>
+
 <html>
 	<head>
-		<title></title>
+		<title>Test Page</title>
 	</head>
 	
 	<body>
-		Testing. Again.
 		<?php
-		
+			echo "Testing. Again."
 		?>
 	</body>
 </html>
