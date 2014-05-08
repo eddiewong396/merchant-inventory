@@ -5,7 +5,7 @@
 
 		<meta charset="utf-8">
 
-		<title>The HTML5 Herald</title>
+		<title>Login Page</title>
 		<meta name="description" content="The HTML5 Herald">
 		<meta name="author" content="SitePoint">
 
