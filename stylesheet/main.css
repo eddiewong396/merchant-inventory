@@ -101,3 +101,24 @@ table {margin: .5em auto 1.5em auto; width: 98%;}
 	tfoot th {}
 	tfoot td {}
  
+div
+{
+	padding: 6px;
+	margin: 6px;
+	text-align: left;
+}
+
+.gray
+{
+	background-color: #DDD;
+}
+
+.fourhundred
+{
+	width: 400px;
+}
+
+.center
+{
+	margin: 0 auto;
+}

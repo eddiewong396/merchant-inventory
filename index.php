@@ -25,23 +25,23 @@
 	
 	<section>
 		<article>
-			<div>
-			<label> Username :
-				<input type="text" 
-					name="username" 
-					id="username" 
-					placeholder="Enter username here" 
-					autofocus="autofocus" >
-			</label>
+			<div class="gray fourhundred center">
+				<label> Username :
+					<input type="text" 
+						name="username" 
+						id="username" 
+						placeholder="Enter username here" 
+						autofocus="autofocus" >
+				</label>
+				<br />
+				<label> Password :
+					<input type="password" 
+						name="password" 
+						id="password" >
+				</label>
+			</div>
 			<br />
-			<label> Password :
-				<input type="password" 
-					name="password" 
-					id="password" >
-			</label>
-		</div>
-		<br />
-		<button type="button">Login</button>
+			<button type="button">Login</button>
 		</article>
 	</section>
 
