@@ -20,9 +20,6 @@
 
 	<header>
 		<nav>
-			<ul>
-				<li>Your menu</li>
-			</ul>
 		</nav>
 	</header>
 	
@@ -46,29 +43,7 @@
 		<br />
 		<button type="button">Login</button>
 		</article>
-		
-		<article>
-			<header>
-				<h2>Article title</h2>
-				<p>Posted on <time datetime="2009-09-04T16:31:24+02:00">September 4th 2009</time> by <a href="#">Writer</a> - <a href="#comments">6 comments</a></p>
-			</header>
-			<p>Content 01.</p>
-		</article>
-		
-		<article>
-			<header>
-				<h2>Article title</h2>
-				<p>Posted on <time datetime="2009-09-04T16:31:24+02:00">September 4th 2009</time> by <a href="#">Writer</a> - <a href="#comments">6 comments</a></p>
-			</header>
-			<p>Content 02.</p>
-		</article>
-		
 	</section>
-
-	<aside>
-		<h2>About section</h2>
-		<p>Put something here.</p>
-	</aside>
 
 	<footer>
 		<p>Copyright 2014</p>
